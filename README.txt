@@ -1,6 +1,6 @@
 This is the dataset for Voelcker et al., 2022, Nature Communications.
 
-This contains 'processed' data; for raw data, please contact Peron lab.
+This employs 'processed' data; for raw data, please contact Peron lab.
 
 1. Getting started: you will first need to modify get_two_whisker_settings.m to 
 point to appropriate locations for all the files.  Ensure that the "src"
