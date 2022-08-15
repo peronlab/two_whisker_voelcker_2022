@@ -1,4 +1,4 @@
-This is the dataset for Voelcker et al., 2022, Nature Communications.
+This is the code for Voelcker et al., 2022, Nature Communications.
 
 This employs 'processed' data; for raw data, please contact Peron lab.
 
